@@ -1,0 +1,13 @@
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.exe
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.deps.json
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.runtimeconfig.json
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.runtimeconfig.dev.json
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.dll
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\bin\Release\netcoreapp3.1\EnumProgramm.pdb
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.csprojAssemblyReference.cache
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.AssemblyInfoInputs.cache
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.AssemblyInfo.cs
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.csproj.CoreCompileInputs.cache
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.dll
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.pdb
+G:\Andrew\Proramming\C#\BibleCShurp\WindowsFormsApp1\EnumProgramm\obj\Release\netcoreapp3.1\EnumProgramm.genruntimeconfig.cache
